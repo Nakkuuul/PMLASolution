@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files (optional: if you want to keep local data private)
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor configs
+.vscode/
+.idea/
+
+# Build / distribution artifacts
+build/
+dist/
+*.egg-info/
+
+# Test / coverage reports
+.coverage
+htmlcov/
+.pytest_cache/

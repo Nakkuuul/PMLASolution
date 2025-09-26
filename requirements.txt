@@ -1,5 +1,5 @@
-numpy
+fastapi
+uvicorn
 pandas
-scikit-learn
+numpy
 matplotlib
-jupyter
